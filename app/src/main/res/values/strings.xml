@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GeofencingProject</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="geofence_zone">Geofence Zone</string>
+</resources>
